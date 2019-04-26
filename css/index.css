@@ -304,7 +304,7 @@ header .about nav a {
 
   }
 
-  .main-content .item {
+  .main-content-container .item {
     width: 40%;
     /* height: 190px; */
     display: flex;
@@ -326,6 +326,11 @@ header .about nav a {
     margin-top: 15px;
     margin-bottom: 20px;
 
+}
+
+.item img {
+    height: 200px;
+    width: 260px;
 }
 .item button {
 	width: 120px;
