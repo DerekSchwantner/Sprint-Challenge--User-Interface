@@ -82,7 +82,7 @@ p {
 /* } */
 
 header {
-    width: 80%;
+    width: 100%;
     margin: 30px;
     display: flex;
     flex-direction: row;
@@ -104,12 +104,12 @@ nav a {
 
 
 .banner {
-    width: 80%;
-    display: flex;
-    /* display: block; */
+    width: 100%;
+    display: block;
     justify-content: center;
-    margin: 30px;
-    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    
 }
 .top-content {
     display: flex;
