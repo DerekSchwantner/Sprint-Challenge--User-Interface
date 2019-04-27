@@ -111,16 +111,10 @@ nav a {
 }
 .about-page-container p {
     width: 90%
-    margin: 40px;
     text-align: left;
-}
-.container about-page {
-    width: 90%
-    justify-content: center;
 }
 
 .main-content-container {
-	
 	width: 90%;
 	display: flex;
 	justify-content: space-evenly;
@@ -150,7 +144,6 @@ nav a {
 
 .txt-container {
     width: 100%;
-
 }
 
 .item button {
