@@ -71,7 +71,7 @@ p {
     margin: 0 auto;
 }
 header {
-    width: 80%;
+    width: 90%;
     margin: 30px;
     display: flex;
     flex-direction: row;
@@ -92,13 +92,13 @@ nav a {
   }
 
 .banner {
-    width: 80%;
+    width: 90%;
     justify-content: center;
     display: block;
     margin: 30px;
 }
 .about-page-container {
-    width: 80%;
+    width: 90%;
 	display: flex;
 	align-items: flex-start;
 	flex-direction: row;
@@ -110,18 +110,18 @@ nav a {
     text-align: left;
 }
 .about-page-container p {
-    width: 75%
+    width: 90%
     margin: 40px;
     text-align: left;
 }
 .container about-page {
-    width: 80%
+    width: 90%
     justify-content: center;
 }
 
 .main-content-container {
 	
-	width: 80%;
+	width: 90%;
 	display: flex;
 	justify-content: space-evenly;
 	align-items: center;
@@ -162,13 +162,13 @@ nav a {
     color: black;
     margin-bottom: 15px;
     margin-top: 15px;
-	/* margin: 25px; */
+	
   }
 
 
 
 .about-bottom-container {
-    width: 80%;
+    width: 90%;
 	display: flex;
 	justify-content: space-evenly;
 	align-items: flex-start;
@@ -178,7 +178,6 @@ nav a {
     margin-left: 40px;
     margin-bottom: 40px;
 }
-
 
 
 footer {
@@ -191,10 +190,7 @@ footer nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 2%;
     font-size: 14px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 footer nav a {
